@@ -18,6 +18,6 @@ Configuraciones Básicas del archivo rc.lua, theme.lua
 Galeria
 =======
 
-**Ejemplo 1** Autor Statick
+**Screenshot Statick 2014** Autor Statick
 
 .. image:: http://i.imgur.com/37LPpLR.png

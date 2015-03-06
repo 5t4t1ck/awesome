@@ -1,10 +1,10 @@
-==================================
-Configuraciones Básicas de Statick
-=================================
+========================
+Configuración de Awesome 
+========================
 
 -----------------------------------------------
-Configuraciones básicas de Awesome en Archlinux
-----------------------------------------------
+Configuraciones Básicas de Awesome en Archlinux
+-----------------------------------------------
 
 :Author: Statick 
 :License: BY-NC-SA_

@@ -21,3 +21,7 @@ Galeria
 **Screenshot Statick 2014** 
 
 .. image:: http://i.imgur.com/37LPpLR.png
+
+**Screenshot Statick 2015** 
+
+.. image:: http://i.imgur.com/quKMhZn.png
